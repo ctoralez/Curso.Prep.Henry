@@ -1,0 +1,9 @@
+Variable: es un contenedor que guarda una determinada información y que se puede cambiar.
+
+Strings: es un conjunto de caracteres, los cuales pueden ser letras, números o símbolos.
+
+Funciones (argumentos, 'return'): es una tarea que trabaja sobre los argumentos que se le de y regresa un determinado valor.
+
+Declaraciones 'if': hace que, solo si se cumpla determinada condición, entonces se ejecuten las siguientes lineas de código.
+
+Valores booleanos  ('true', 'false'): son valores lógicos que equivalen a verdadero o falso. Se usan para determinar el valor de verdad de una expresión.
