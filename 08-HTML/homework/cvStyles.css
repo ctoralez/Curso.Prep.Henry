@@ -1,0 +1,67 @@
+*{
+    font-family: Roboto, monospace,sans-serif;
+}
+
+body{
+    background: #ccc;
+}
+
+#contenedor{
+    max-width: 1500px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background: white;
+    padding: 5%;
+}
+
+#datosPersonales{
+    display: flex;
+    align-items: center;
+}
+#datosPersonales ul{
+    list-style-type: none;
+}
+
+#detalles{
+    flex: 3;
+}
+
+#imagen{
+    margin: 50px;
+    padding: 0;
+    box-shadow: 5px 5px black, -5px -5px #ccc;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+h4{
+    background: #00b4d1;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#habilidades{
+    display: flex;
+}
+
+#habilidades div{
+    flex: 1;
+    margin: 1px;
+}
+
+#educacion ul{
+    list-style-type: circle;
+}
+
+#habilidades ul{
+    list-style-type: disclosure-closed;
+}

@@ -1,0 +1,30 @@
+h1{
+    color: #ff4500;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background: lightblue;
+    padding: 50px;
+    border: black 2px dotted;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+body{
+    background-image: url(https://migrexabogados.com/wp-content/uploads/2015/11/Savin-NY-Website-Background-Web.jpg);
+}
+body, div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
